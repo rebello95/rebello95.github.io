@@ -17,6 +17,7 @@ url: "https://michaelrebello.com"
 github_username:  rebello95
 linkedin_username: michaelrebello
 twitter_username: rebello95
+asset_baseurl: "https://rebello95.github.io/assets/images"
 
 # Build settings
 theme: minima

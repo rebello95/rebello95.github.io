@@ -5,20 +5,20 @@ title: About Me
 tags: ios, engineer, software, california, lyft, mobile, networking, envoy, app
 ---
 
-![Path]({{ site.url }}/assets/images/full/profile.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![ProfilePhoto]({{ site.asset_baseurl }}/full/profile.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 Hey there! I'm Michael Rebello. I've been doing iOS development since iOS 4 📱,
 and currently work at [Lyft 🚗](https://lyft.com) as a Staff Engineer on
 networking & reliability. I was also one of the founding team members
 and maintainers of [Envoy Mobile](https://github.com/lyft/envoy-mobile)
-![Envoy Mobile]({{ site.url }}/assets/images/small/envoy_mobile.png).
+![Envoy Mobile]({{ site.asset_baseurl }}/small/envoy_mobile.png).
 
 Prior to Lyft, I started and sold two small software companies and did a few
 consulting projects here and there.
 
 I currently live in San Diego with my wife Milla and our
-[two cats, Pushkin & Bailey]({{ site.url }}/assets/images/full/cats.jpg).
+[two cats, Pushkin & Bailey]({{ site.asset_baseurl }}/full/cats.jpg).
 In my free time, I'm also working on [Path](https://www.pathapp.io)
-![Path]({{ site.url }}/assets/images/small/path.png),
+![Path]({{ site.asset_baseurl }}/small/path.png),
 I enjoy baking 🍪, and I have recently gotten into bouldering 🧗‍♂️.
 
 This page contains a little bit about my work background – feel free to
