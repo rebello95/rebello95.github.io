@@ -33,7 +33,7 @@ This page contains a little bit about my work background – feel free to
 
 # Past Work
 
-## Lyft - Staff Engineer (2016 - Present)
+## Lyft (2016 - Present)
 
 When I first joined Lyft in 2016, I spent most of my time working on the Shared Rides product.
 I was then asked to join a very small team tasked with building the
