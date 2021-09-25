@@ -5,6 +5,7 @@ title: About Me
 tags: ios, engineer, software, california, lyft, mobile, networking, envoy, app
 ---
 
+![Path]({{ site.url }}/assets/images/full/profile.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 Hey there! I'm Michael Rebello. I've been doing iOS development since iOS 4 📱,
 and currently work at [Lyft 🚗](https://lyft.com) as a Staff Engineer on
 networking & reliability. I was also one of the founding team members
