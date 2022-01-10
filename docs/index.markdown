@@ -7,19 +7,24 @@ tags: ios, engineer, software, california, lyft, mobile, networking, envoy, app
 
 ![ProfilePhoto]({{ site.asset_baseurl }}/full/profile.png){:style="float: right; margin-right: 7px; margin-top: 7px; width: 200px; height: 200px;"}
 Hey there! I'm Michael Rebello. I've been doing iOS development since iOS 4 📱,
-and currently work at [Lyft 🚗](https://lyft.com) as a Staff Engineer on
-networking & reliability. I was also one of the founding team members
-and maintainers of [Envoy Mobile](https://github.com/lyft/envoy-mobile)
-![Envoy Mobile]({{ site.asset_baseurl }}/small/envoy_mobile.png){:style="width: 25px; height: 20px;"}.
+and currently work at [Lyft 🚗](https://lyft.com) as a Staff Engineer where I
+was on a very small team tasked with building the
+[redesign of the Lyft rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users),
+was one of the founding team members
+of [Envoy Mobile](https://github.com/lyft/envoy-mobile)
+![Envoy Mobile]({{ site.asset_baseurl }}/small/envoy_mobile.png){:style="width: 25px; height: 20px;"},
+and am currently focused on networking & reliability.
 
-Prior to Lyft, I started and sold two small software companies and did a few
+Additionally, I'm working on [Path](https://www.pathapp.io)
+![Path]({{ site.asset_baseurl }}/small/path.png){:style="width: 20px; height: 20px;"} -
+a place to discover and share your favorite travel recommendations.
+
+Prior, I started and sold two small software companies and did a few
 consulting projects here and there.
 
 I currently live in San Diego with my wife Milla and our
 [two cats, Pushkin & Bailey]({{ site.asset_baseurl }}/full/cats.jpg).
-In my free time, I'm also working on [Path](https://www.pathapp.io)
-![Path]({{ site.asset_baseurl }}/small/path.png){:style="width: 20px; height: 20px;"},
-I enjoy baking 🍪, and I have recently gotten into bouldering 🧗‍♂️.
+In my free time, I enjoy baking 🥐 and have recently gotten into bouldering 🧗‍♂️.
 
 This page contains a little bit about my work background – feel free to
 [contact me](mailto:me@michaelrebello.com)!
@@ -37,7 +42,8 @@ This page contains a little bit about my work background – feel free to
 
 When I first joined Lyft in 2016, I spent most of my time working on the Shared Rides product.
 I was then asked to join a very small team tasked with building the
-[redesign of the Lyft rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users/).
+[redesign of the Lyft rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users), which became the
+basis of the Lyft app we know today.
 I now work on mobile infrastructure, particularly on networking and reliability tools.
 I was also one of the founding team members and maintainers of
 [Envoy Mobile](https://github.com/lyft/envoy-mobile), and am an editor of the
