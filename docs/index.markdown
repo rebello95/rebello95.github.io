@@ -33,6 +33,7 @@ This page contains a little bit about my work background – feel free to
 
 - BA Swiftable Conference: [Envoy Mobile & The Upcoming Networking Revolution](https://www.youtube.com/watch?v=rMBrVfoQ7-g)
 - Lyft Engineering Blog: [Lyft’s Journey Through Mobile Networking](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166)
+- App Performance Cafe Podcast: [Abstracting Networking from the Application Layer](https://open.spotify.com/episode/1rDAnNa7YtbvNh0ZWKfup2)
 - Lyft Mobile Podcast: [Mobile Networking](https://lyftmobilepodcast.libsyn.com/mobile-networking)
 - Swift Language User Group: [gRPC & iOS at Lyft](https://www.youtube.com/watch?v=Go3_72i8bjI&t=183s)
 
