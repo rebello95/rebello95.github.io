@@ -16,7 +16,7 @@ I've broken this information up into sections below in an effort to make it more
 If you're just getting started on your financial journey, these are the key things (in order) that you should start with. Details are available on each throughout the following sections, but reading them in this order will help you get off on the right foot:
 
 1. [Budget](#budget) (or at least track cash flow)
-2. Open a [starter credit card](#starter-credit-cards)
+2. Open a [starter credit card](#starter-credit-cards) to start [building your credit score](#credit)
 3. [Save](#saving)
 4. [Invest](#investing)
 
