@@ -5,13 +5,13 @@ permalink: /finances
 
 _Last updated in June 2022._
 
-# Introduction
+## **Introduction**
 
 Over the past few years, I've been asked questions by several individuals about how I manage my personal finances. Additionally, I have a some younger siblings who are in college and have not yet joined the workforce, but are seeking to learn more about how they should be thinking about financial planning. Finance is something that I personally find very interesting and thoroughly enjoy learning about. That said, today's financial system is not entirely straightforward and people looking to start their financial journey can be easily overwhelmed since most formal educational institutions do not require classes on finance, taxes, etc. to be taken in order to graduate. It is for these reasons that I decided to write a synopsis of what I believe to be the most important financial components to learn about in order to set oneself up for financial success.
 
 I've broken this information up into sections below in an effort to make it more digestable. It's worth mentioning that there are entire books written about each section, so this is by no means meant to be exhaustive. Rather, I've written this with the goal of providing high-level context on each topic along with some actionable ideas. I've also provided inline links to external websites to help provide further reading material. Before reading, please take note of the [disclaimer](#disclaimer).
 
-# Getting started
+## **Getting started**
 
 If you're just getting started on your financial journey, these are the key things (in order) that you should start with. Details are available on each throughout the following sections, but reading them in this order will help you get off on the right foot:
 
@@ -20,7 +20,7 @@ If you're just getting started on your financial journey, these are the key thin
 3. [Save](#saving)
 4. [Invest](#investing)
 
-# Contents
+## **Contents**
 
 - [Credit](#credit)
   * [Credit scores](#credit-scores)
@@ -46,12 +46,12 @@ If you're just getting started on your financial journey, these are the key thin
   * [Assets](#assets)
   * [Bonds](#bonds)
 - [Giving](#giving)
-  * [Donor advised fund](#donor-advised-fund)
+  * [Donor advised funds](#donor-advised-funds)
 - [Disclaimer](#disclaimer)
 
-# Credit
+## **Credit**
 
-## Credit scores
+### **Credit scores**
 
 [Credit](https://www.experian.com/blogs/ask-experian/credit-education/faqs/what-is-credit/) is essentially the ability to borrow funds with the understanding that you'll repay the lender at a later time. Today, lenders use [credit scores](https://www.investopedia.com/terms/c/credit_score.asp) to determine your "credit worthiness" - how likely you are to repay loaned money in the future. The higher your credit score in the range of 300-850, the more easily you'll be able to borrow money and the lower your interest rates on that borrowed money will be (see the [interest rates section below](#interest-rates) for details on why this is important).
 
@@ -69,11 +69,11 @@ You can monitor your credit score for free either using the systems provided by 
 
 See the individual sections below for more details on each, as well as [starter credit cards](#starter-credit-cards) for information on how to start building your credit score.
 
-### Payment history
+#### **Payment history**
 
 [Payment history](https://www.forbes.com/advisor/credit-score/payment-history/) is a measure of whether outstanding debt is paid back on time. (Are credit card bills paid? Are mortgage payments being made on time? What about car payments?) **You should aim to have a perfect payment history and should avoid any late or missed bill payments on outstanding credit, as this will negatively affect your score.**
 
-### Credit utilization
+#### **Credit utilization**
 
 [Credit utilization](https://www.investopedia.com/terms/c/credit-utilization-rate.asp) measures how much of a consumer's available credit is currently in use. For example, if your only line of credit is a credit card with a $1,000 credit limit and you have a balance of $250 on that card, your credit utilization ratio is 25% ($250 / $1,000).
 
@@ -91,13 +91,13 @@ Utilization = ($250 + $800) / ($1,000 + $6,000) = 15%
 
 **[The lower your credit utilization, the better](https://www.experian.com/blogs/ask-experian/what-is-the-best-percentile-for-credit-utilization/) - try to keep your utilization between 1-10% (important: 1% credit usage is better than no usage [according to Experian](https://www.experian.com/blogs/ask-experian/what-is-the-best-percentile-for-credit-utilization/)).**
 
-### Length of credit history
+#### **Length of credit history**
 
 Just as people build trust through relationships over time, credit agencies build trust in you as a borrower over time. Having a track record of good payment history and credit utilization (over the period of years) is considered as part of your credit score. Thus, **it is important to start building credit early on, typically by opening a credit card, keeping its utilization between 1-10%, and paying off the balance in full each month.**
 
 The amount of time you have had lines of credit open is also taken into account in your score. For example, if all of your credit cards were opened within the past year, you do not have a lengthy track record of good credit for lenders to see. For this reason, **it is best practice to avoid closing credit cards unnecessarily, as doing so may reduce the length of your credit history and will also reduce your total available credit (thus increasing your credit utilization).**
 
-### Type of credit in use
+#### **Type of credit in use**
 
 There are three types of credit accounts:
 
@@ -109,7 +109,7 @@ As a general guideline, **having varying types of credit accounts (typically cre
 
 (More details are available [here](https://www.creditkarma.com/credit-cards/i/how-types-credit-affect-score).)
 
-### New credit (credit inquiries)
+#### **New credit (credit inquiries)**
 
 A [credit inquiry](https://www.investopedia.com/terms/c/credit-inquiry.asp) occurs when an institution requests credit information from a credit reporting agency. Inquiries (also known as "pulls") are either hard inquiries or soft inquiries, and require the borrower's social security number:
 
@@ -118,19 +118,19 @@ A [credit inquiry](https://www.investopedia.com/terms/c/credit-inquiry.asp) occu
 
 A high number of hard credit inquiries in a short amount of time (such as those caused by applying for several credit cards at once) can be interpreted by lenders as an attempt to significantly expand available credit, which is why they affect your credit score. **When applying for credit, be mindful of the fact that doing so will reduce your credit score and avoid applying for multiple lines of credit in a short period of time.**
 
-## Credit cards
+### **Credit cards**
 
 TODO
 
-### Starter credit cards
+#### **Starter credit cards**
 
 TODO
 
-### Expensive credit cards
+#### **Expensive credit cards**
 
 TODO
 
-## Interest rates
+### **Interest rates**
 
 Interest rates are important because they can significantly affect the amount of money you will be required to pay back when you borrow funds (e.g., taking out a loan, using credit cards, etc.). The lower your interest rate on a loan, the less money you will pay in interest over time and the cheaper it is for you to borrow that money.
 
@@ -156,60 +156,60 @@ Interest applied to credit cards can be even more costly because it **compounds 
 
 For example, consider a credit card with an APR (Annual Percentage Rate) of 20%. This is the interest rate that you'll pay over the course of a year, and means that the daily interest rate is 0.054% (20% / 365 days). If your card has a balance of $1,000 on January 1, $0.54 of interest will be added to your balance (0.054% * $1,000) on January 2. The next day, the interest will be applied to your new balance of $1,000.54, and the process will repeat until the end of each of the monthly billing cycle. On January 31, the new balance would be $1,016.74. If the balance remains unpaid for another 31 days, another $17.02 of interest would be accrued ($1,016.74 * (0.054% * 31 days)). Notice that the interest of the second 31 days is higher than the first 31 days - this is because the interest _compounds_ over time, meaning that you're essentially accuring interest on the interest you accrued in the previous billing period.
 
-## Loans
+### **Loans**
 
 TODO
 
-# Budgeting
+## **Budgeting**
 
 TODO
 
-# Saving
+## **Saving**
 
-## HYSAs (High-Yield Savings Accounts)
+### HYSAs (High-Yield Savings Accounts)
 
 TODO (Amex, SoFi)
 
-# Investing
+## **Investing**
 
 TODO
 
-## 401(k)
+### **401(k)**
 
 TODO (standard, matching, XL roth)
 
-## IRAs
+### **IRAs**
 
 TODO (traditional, roth)
 
-## Stocks
+### **Stocks**
 
 TODO
 
-### Mutual funds & ETFs
+#### **Mutual funds & ETFs**
 
 TODO (include book reference)
 
-### Target date funds
+#### **Target date funds**
 
 TODO
 
-## Assets
+### **Assets**
 
 TODO
 
-## Bonds
+### **Bonds**
 
 TODO
 
-# Giving
+## **Giving**
 
 TODO
 
-## Donor advised fund
+### **Donor advised funds**
 
 TODO (include book reference)
 
-# Disclaimer
+## **Disclaimer**
 
 I am not a certified financial planner/advisor, certified financial analyst, economist, CPA, accountant, or lawyer. I am not a finance professional through formal education. The contents of this site are my opinions based on past experiences and research. The contents of this site are for informational and entertainment purposes only and do not constitute financial, accounting, or legal advice. I cannot promise that the information shared on this site is appropriate for you or anyone else. By using this site, you agree to hold me harmless from any ramifications, financial or otherwise, that occur to you as a result of acting on information found on this site.
