@@ -11,6 +11,15 @@ Over the past few years, I've been asked questions by several individuals about 
 
 I've broken this information up into sections below in an effort to make it more digestable. It's worth mentioning that there are entire books written about each section, so this is by no means meant to be exhaustive. Rather, I've written this with the goal of providing high-level context on each topic along with some actionable ideas. I've also provided inline links to external websites to help provide further reading material. Before reading, please take note of the [disclaimer](#disclaimer).
 
+# Getting started
+
+If you're just getting started on your financial journey, these are the key things (in order) that you should start with. Details are available on each throughout the following sections, but reading them in this order will help you get off on the right foot:
+
+1. [Budget](#budget) (or at least track cash flow)
+2. Open a [starter credit card](#starter-credit-cards)
+3. [Save](#saving)
+4. [Invest](#investing)
+
 # Contents
 
 - [Credit](#credit)
@@ -26,10 +35,11 @@ I've broken this information up into sections below in an effort to make it more
   * [Interest rates](#interest-rates)
   * [Loans](#loans)
 - [Budgeting](#budgeting)
+- [Saving](#saving)
+  * [HYSAs (High-Yield Savings Accounts)](#hysas--high-yield-savings-accounts-)
 - [Investing](#investing)
   * [401(k)](#401-k-)
-  * [IRA](#ira)
-  * [HYSA (High-Yield Savings Account)](#hysa--high-yield-savings-account-)
+  * [IRAs](#iras)
   * [Stocks](#stocks)
     + [Mutual funds & ETFs](#mutual-funds---etfs)
     + [Target date funds](#target-date-funds)
@@ -54,6 +64,8 @@ There are 3 main agencies that report, update, and store consumers' credit score
 - 15% length of credit history
 - 10% type of credit in use
 - 10% new credit
+
+You can monitor your credit score for free either using the systems provided by your credit card provider or bank, or via a site like [Experian](https://www.experian.com).
 
 See the individual sections below for more details on each, as well as [starter credit cards](#starter-credit-cards) for information on how to start building your credit score.
 
@@ -152,6 +164,12 @@ TODO
 
 TODO
 
+# Saving
+
+## HYSAs (High-Yield Savings Accounts)
+
+TODO (Amex, SoFi)
+
 # Investing
 
 TODO
@@ -160,13 +178,9 @@ TODO
 
 TODO (standard, matching, XL roth)
 
-## IRA
+## IRAs
 
 TODO (traditional, roth)
-
-## HYSA (High-Yield Savings Account)
-
-TODO (Amex, SoFi)
 
 ## Stocks
 
