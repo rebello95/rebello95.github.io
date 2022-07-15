@@ -17,7 +17,8 @@ and am currently focused on networking & reliability.
 
 Additionally, I'm working on [Path](https://www.pathapp.io)
 ![Path]({{ site.asset_baseurl }}/small/path.png){:style="width: 20px; height: 20px;"} -
-a place to discover and share your favorite travel recommendations.
+a platform to find the best spots through short-form,
+relatable video reviews from local experts and recommendations from friends.
 
 Prior, I started and sold two small software companies and did a few
 consulting projects here and there.
@@ -35,32 +36,40 @@ This page contains a little bit about my work background – feel free to
 - Lyft Engineering Blog: [Lyft’s Journey Through Mobile Networking](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166)
 - App Performance Cafe Podcast: [Abstracting Networking from the Application Layer](https://open.spotify.com/episode/1rDAnNa7YtbvNh0ZWKfup2)
 - Lyft Mobile Podcast: [Mobile Networking](https://lyftmobilepodcast.libsyn.com/mobile-networking)
-- Swift Language User Group: [gRPC & iOS at Lyft](https://www.youtube.com/watch?v=Go3_72i8bjI&t=183s)
+- Swift Language User Group: [gRPC & iOS at Lyft](https://www.youtube.com/watch?v=Go3_72i8bjI)
 
 # Past Work
 
 ## Lyft (2016 - Present)
 
-When I first joined Lyft in 2016, I spent most of my time working on the Shared Rides product.
-I was then asked to join a very small team tasked with building the
-[redesign of the Lyft rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users), which became the
-basis of the Lyft app we know today.
-I now work on mobile infrastructure, particularly on networking and reliability tools.
-I was also one of the founding team members and maintainers of
+When I first joined Lyft, I spent most of my time working on Shared Rides.
+After leading an independent technical effort, I was asked to join a very small “lab” team of designers and 3
+engineers tasked with [redesigning the Lyft rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users)
+which became the basis for the Lyft app we know today. I now lead a team that I started
+within the mobile infrastructure org which is focused on networking and reliability.
+I was also one of the founding team members and maintainers of the open-source
 [Envoy Mobile](https://github.com/lyft/envoy-mobile), and am an editor of the
 [Lyft Engineering Blog](https://eng.lyft.com).
 
+## Path - Co-Founder & CTO (2020 - Present)
+
+Co-founded [Path](https://www.pathapp.io), a platform to find the best spots through short-form,
+relatable video reviews from local experts and recommendations from friends. In 2021, the company raised a
+funding round led by [75 & Sunny Ventures](https://www.75andsunny.vc/labs). As the sole technical
+team member, I built Path's backend servers and iOS app from the ground up, and work closely with our product
+team and investors.
+
 ## ActivityHub/NEXMachine - iOS Product & Architecture (2014 - 2016)
 
-I joined ActivityHub (NEXMachine) to build their iOS app and backend for a calendar app which integrated
-with several external services. A few months later, they acquired my company (Scholastic Connections),
+Joined ActivityHub (NEXMachine) to build their iOS calendar app and backend which integrated with several
+external services. A few months later, they acquired my company (Scholastic Connections),
 and I began leading product development for both initiatives before later closing down Scholastic Connections
-as ActivityHub refocused on the enterprise space as a Salesforce partner.
-I continued leading the product engineering team, contributing as an IC, and taking part in investor meetings.
+as ActivityHub refocused on the enterprise space as a Salesforce partner. I then led product engineering,
+hired new engineers, contributed as an IC, and participated in investor meetings.
 
-## Flounder Apps (Acquired in 2016) - Co-Founder (2013-2016)
+## Flounder Apps (Acquired in 2016) - Co-Founder (2013 - 2016)
 
-I spent a few years with a co-founder on Flounder Apps, focused on building
+Co-founded Flounder Apps, focused on building
 [Ambition: Strategy War Game](https://appadvice.com/app/ambition-strategy-war-game/850863885) – an iOS app
 designed as a complex, turn-based strategy game.
 The product was acquired by another organization in 2016.
@@ -74,5 +83,5 @@ and grew its userbase before ultimately being shut down when ActivityHub pivoted
 
 ## Independent iOS Developer (2011 - 2014)
 
-Created a few various iOS apps which were distributed on the App Store,
-some of which were eventually sold off.
+Contracted independently on iOS projects for several companies. Additionally,
+I created a few of my own apps which were distributed on the App Store, some of which were eventually sold off.
