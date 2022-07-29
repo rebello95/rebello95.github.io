@@ -42,22 +42,28 @@ This page contains a little bit about my work background – feel free to
 
 ## Lyft (2016 - Present)
 
-When I first joined Lyft, I spent most of my time working on Shared Rides.
-After leading an independent technical effort, I was asked to join a very small “lab” team of designers and 3
-engineers tasked with [redesigning the Lyft rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users)
-which became the basis for the Lyft app we know today. I now lead a team that I started
-within the mobile infrastructure org which is focused on networking and reliability.
-I was also one of the founding team members and maintainers of the open-source
-[Envoy Mobile](https://github.com/lyft/envoy-mobile), and am an editor of the
+During my first few months at Lyft, I was focused on shipping features to improve Shared Rides.
+After leading an architectural effort on the iOS driver app, I was asked to join a very small “lab” team of
+designers and 2 other iOS engineers tasked with
+[redesigning the rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users)
+which boosted bookings and became the foundation for the Lyft rider app we know today.
+I was one of the founding members and maintainers of the open-source
+[Envoy Mobile](https://github.com/lyft/envoy-mobile) project, was responsible for writing Lyft’s iOS
+experimentation, analytics, and gRPC streaming components, and co-led Lyft’s
+[migration of all mobile APIs to Protobuf](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166).
+As part of this effort, I authored their Go-based Swift generator for Protobuf and coordinated
+with product teams to achieve 100% adoption. I now lead a team that I started in the mobile infrastructure org
+which is focused on networking and reliability, and am an editor of the
 [Lyft Engineering Blog](https://eng.lyft.com).
 
 ## Path - Co-Founder & CTO (2020 - Present)
 
 Co-founded [Path](https://www.pathapp.io), a platform to find the best spots through short-form,
-relatable video reviews from local experts and recommendations from friends. In 2021, the company raised a
-funding round led by [75 & Sunny Ventures](https://www.75andsunny.vc/labs). As the sole technical
-team member, I built Path's backend servers and iOS app from the ground up, and work closely with our product
-team and investors.
+relatable video reviews from local experts and recommendations from friends.
+In 2021, the company raised a funding round led by [75 & Sunny Ventures](https://www.75andsunny.vc/labs).
+As the sole technical team member, I built Path's backend servers and iOS app from the ground up.
+I work closely with the team to iterate based on data and user feedback, and am involved in investor
+relations/fundraising.
 
 ## ActivityHub/NEXMachine - iOS Product & Architecture (2014 - 2016)
 
@@ -79,7 +85,8 @@ The product was acquired by another organization in 2016.
 Founded Scholastic Connections, a company that partnered with classroom management providers to create an
 iOS app which provided teachers and families with easy access to their students' data.
 In 2014, the company was acquired by ActivityHub (NEXMachine), after which the product expanded to Android
-and grew its userbase before ultimately being shut down when ActivityHub pivoted towards the enterprise space.
+and grew its user base before ultimately being shut down when
+ActivityHub pivoted towards the enterprise space.
 
 ## Independent iOS Developer (2011 - 2014)
 
