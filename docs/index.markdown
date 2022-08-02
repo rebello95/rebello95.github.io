@@ -23,8 +23,9 @@ consulting projects here and there.
 
 I currently live in San Diego with my wife Milla and our
 [two cats, Pushkin & Bailey]({{ site.asset_baseurl }}/full/cats.jpg).
-In my free time, I enjoy baking, hiking, and bouldering (though I'm not yet
-brave enough to try it in the wild outside of a climbing gym).
+In my free time, I enjoy baking, hiking, bouldering (though I'm not yet
+brave enough to try it in the wild outside of a climbing gym), and learning
+to speak Russian.
 
 This page contains a little bit about my work background – feel free to
 [contact me](mailto:me@michaelrebello.com)!
