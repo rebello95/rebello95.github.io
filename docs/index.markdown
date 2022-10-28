@@ -2,24 +2,20 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: About Me
-tags: ios, engineer, software, california, lyft, mobile, networking, envoy, app
+tags: ios, engineer, software, buf, protobuf, grpc, protocol, buffers, california, lyft, mobile, networking, envoy, app
 ---
 
 ![ProfilePhoto]({{ site.asset_baseurl }}/full/profile.png){:style="float: right; margin-right: 7px; margin-top: 7px; width: 200px; height: 200px;"}
 Hey there! I'm Michael Rebello. I've been doing iOS development since iOS 4,
-and currently work at [Lyft](https://lyft.com) as a Staff Engineer where I
-was on a very small team tasked with building the
-[redesign of the Lyft rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users),
-was one of the founding team members
-of [Envoy Mobile](https://github.com/lyft/envoy-mobile),
-and am currently focused on networking & reliability.
+and currently work at [Buf](https://buf.build) building the future of APIs
+through Protobuf (particularly on mobile!).
 
 I'm also a co-founder of [Path](https://www.pathapp.io) -
 a platform to find the best spots through short-form,
 relatable video reviews from local experts and recommendations from friends.
 
-Prior, I started and sold two small software companies and did a few
-consulting projects here and there.
+Prior, I worked as a Staff Engineer at Lyft for 6 years after starting and selling
+two small software companies and doing a few consulting projects.
 
 I currently live in San Diego with my wife Milla and our
 [two cats, Pushkin & Bailey]({{ site.asset_baseurl }}/full/cats.jpg).
@@ -41,7 +37,11 @@ This page contains a little bit about my work background – feel free to
 
 # Past Work
 
-## Lyft (2016 - Present)
+## Buf (2022 - Present)
+
+[Building the future of APIs through Protobuf!](https://buf.build)
+
+## Lyft (2016 - 2022)
 
 My first few months at Lyft were focused on shipping features to improve Shared Rides.
 After leading an architecture effort on the iOS driver app, I was asked to join a very small “lab” team of
