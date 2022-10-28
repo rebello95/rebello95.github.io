@@ -53,8 +53,8 @@ I was one of the founding members and maintainers of the open-source
 experimentation, analytics, and gRPC streaming components, and co-led Lyft’s
 [mobile-wide adoption of Protobuf APIs](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166) -
 authoring a Go-based Swift Protobuf generator and partnering with product teams to achieve 100% utilization.
-I now lead a new team in the mobile infrastructure org which is focused on networking and reliability,
-and am an editor of the [Lyft Engineering Blog](https://eng.lyft.com).
+Lastly, I led a new team in the mobile infrastructure org which was focused on networking and reliability,
+and was an editor of the [Lyft Engineering Blog](https://eng.lyft.com).
 
 ## Path - Co-Founder & CTO (2020 - Present)
 
