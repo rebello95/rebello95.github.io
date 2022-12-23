@@ -2,7 +2,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: About Me
-tags: ios, engineer, software, buf, protobuf, grpc, protocol, buffers, california, lyft, mobile, networking, envoy, app
+tags: ios, engineer, software, buf, protobuf, grpc, protocol, buffers, california, lyft, mobile, networking, connect, path, envoy, app
 ---
 
 ![ProfilePhoto]({{ site.asset_baseurl }}/full/profile.png){:style="float: right; margin-right: 7px; margin-top: 7px; width: 200px; height: 200px;"}
@@ -10,7 +10,7 @@ Hey there! I'm Michael Rebello. I've been doing iOS development since iOS 4,
 and currently work at [Buf](https://buf.build) building the future of APIs
 through Protobuf (particularly on mobile!).
 
-I'm also a co-founder of [Path](https://www.pathapp.io) -
+I also co-founded [Path](https://www.crunchbase.com/organization/path-travel) -
 a platform to find the best spots through short-form,
 relatable video reviews from local experts and recommendations from friends.
 
@@ -56,14 +56,16 @@ authoring a Go-based Swift Protobuf generator and partnering with product teams 
 Lastly, I led a new team in the mobile infrastructure org which was focused on networking and reliability,
 and was an editor of the [Lyft Engineering Blog](https://eng.lyft.com).
 
-## Path - Co-Founder & CTO (2020 - Present)
+## Path - Co-Founder & CTO (2020 - 2022)
 
-Co-founded [Path](https://www.pathapp.io), a platform to find the best spots through short-form,
+Co-founded [Path](https://www.crunchbase.com/organization/path-travel),
+a platform to find the best spots through short-form,
 relatable video reviews from local experts and recommendations from friends.
 In 2021, the company raised a funding round led by [75 & Sunny Ventures](https://www.75andsunny.vc/labs).
 As the sole technical team member, I built Path's backend servers and iOS app from the ground up.
-I work closely with the team to iterate based on data and user feedback, and am involved in investor
-relations/fundraising.
+I partnered closely with the product team to iterate based on data and user feedback,
+and was involved in investor relations/fundraising. After 2 years of working towards product-market-fit,
+we decided to wind the company down and returned the majority of funds back to investors.
 
 ## ActivityHub/NEXMachine - iOS Product & Architecture (2014 - 2016)
 
