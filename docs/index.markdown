@@ -19,8 +19,7 @@ two small software companies and doing a few consulting projects.
 
 I currently live in San Diego with my wife Milla and our
 [two cats, Pushkin & Bailey]({{ site.asset_baseurl }}/full/cats.jpg).
-In my free time, I enjoy baking, hiking, bouldering (though I'm not yet
-brave enough to try it in the wild outside of a climbing gym), and learning
+In my free time, I enjoy baking, hiking, surfing, bouldering, and learning
 to speak Russian.
 
 This page contains a little bit about my work background – feel free to
@@ -41,7 +40,7 @@ This page contains a little bit about my work background – feel free to
 
 [Building the future of APIs through Protobuf!](https://buf.build)
 
-## Lyft (2016 - 2022)
+## [Lyft](https://www.lyft.com) (2016 - 2022)
 
 My first few months at Lyft were focused on shipping features to improve Shared Rides.
 After leading an architecture effort on the iOS driver app, I was asked to join a very small “lab” team of
@@ -56,7 +55,7 @@ authoring a Go-based Swift Protobuf generator and partnering with product teams 
 Lastly, I led a new team in the mobile infrastructure org which was focused on networking and reliability,
 and was an editor of the [Lyft Engineering Blog](https://eng.lyft.com).
 
-## Path - Co-Founder & CTO (2020 - 2022)
+## [Path](https://www.crunchbase.com/organization/path-travel) - Co-Founder & CTO (2020 - 2022)
 
 Co-founded [Path](https://www.crunchbase.com/organization/path-travel),
 a platform to find the best spots through short-form,
@@ -67,7 +66,7 @@ I partnered closely with the product team to iterate based on data and user feed
 and was involved in investor relations/fundraising. After 2 years of working towards product-market-fit,
 we decided to wind the company down and returned the majority of funds back to investors.
 
-## ActivityHub/NEXMachine - iOS Product & Architecture (2014 - 2016)
+## [ActivityHub/NEXMachine](https://www.crunchbase.com/organization/nexmachine-llc) - iOS Product & Architecture (2014 - 2016)
 
 Joined ActivityHub (NEXMachine) to build their iOS calendar app and backend which integrated with several
 external services. A few months later, they acquired my company (Scholastic Connections),
@@ -75,14 +74,14 @@ and I began leading product development for both initiatives before later closin
 as ActivityHub refocused on the enterprise space as a Salesforce partner. I then led product engineering,
 hired new engineers, contributed as an IC, and participated in investor meetings.
 
-## Flounder Apps (Acquired in 2016) - Co-Founder (2013 - 2016)
+## [Flounder Apps](https://www.crunchbase.com/organization/flounder-apps-llc) (Acquired in 2016) - Co-Founder (2013 - 2016)
 
 Co-founded Flounder Apps, focused on building
 [Ambition: Strategy War Game](https://appadvice.com/app/ambition-strategy-war-game/850863885) – an iOS app
 designed as a complex, turn-based strategy game.
 The product was acquired by another organization in 2016.
 
-## Scholastic Connections (Acquired in 2015) - Founder (2014 - 2015)
+## [Scholastic Connections](https://www.crunchbase.com/organization/scholastic-connections-llc) (Acquired in 2015) - Founder (2014 - 2015)
 
 Founded Scholastic Connections, a company that partnered with classroom management providers to create an
 iOS app which provided teachers and families with easy access to their students' data.
