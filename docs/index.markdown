@@ -36,9 +36,9 @@ This page contains a little bit about my work background – feel free to
 
 # Past Work
 
-## Buf (2022 - Present)
+## [Buf](https://buf.build) (2022 - Present)
 
-[Building the future of APIs through Protobuf!](https://buf.build)
+Building the future of APIs through Protobuf!
 
 ## [Lyft](https://www.lyft.com) (2016 - 2022)
 
@@ -57,8 +57,7 @@ and was an editor of the [Lyft Engineering Blog](https://eng.lyft.com).
 
 ## [Path](https://www.crunchbase.com/organization/path-travel) - Co-Founder & CTO (2020 - 2022)
 
-Co-founded [Path](https://www.crunchbase.com/organization/path-travel),
-a platform to find the best spots through short-form,
+Co-founded Path, a platform to find the best spots through short-form,
 relatable video reviews from local experts and recommendations from friends.
 In 2021, the company raised a funding round led by [75 & Sunny Ventures](https://www.75andsunny.vc/labs).
 As the sole technical team member, I built Path's backend servers and iOS app from the ground up.
