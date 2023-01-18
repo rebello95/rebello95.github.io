@@ -11,7 +11,7 @@ tags: ios, engineer, software, buf, protobuf, grpc, grpc-web, protocol, buffers,
 ![ProfilePhoto]({{ site.asset_baseurl }}/full/profile.png){:style="float: right; margin-right: 7px; margin-top: 7px; width: 200px; height: 200px;"}
 Hey there! I'm Michael Rebello. I've been doing iOS development since iOS 4,
 and currently work on
-[Connect-Swift][https://github.com/bufbuild/connect-swift]
+[Connect-Swift](https://github.com/bufbuild/connect-swift)
 at [Buf](https://buf.build), building the future of APIs with Protobuf.
 
 Prior, I was a [Staff Engineer at Lyft](#lyft) for 6 years and
@@ -51,7 +51,7 @@ an open-source, lightweight, idiomatic library that finally unlocks Protobuf’s
 long-promised productivity wins for Swift. I am also involved in customer
 engineering and developer relations.
 
-## [Lyft](https://www.lyft.com) (2016 - 2022)
+## <a name="lyft"></a>[Lyft](https://www.lyft.com) (2016 - 2022)
 
 My first few months at Lyft were focused on shipping features to improve Shared Rides.
 After leading an architecture effort on the iOS driver app, I was asked to join a very small “lab” team of
@@ -66,7 +66,7 @@ authoring a Go-based Swift Protobuf generator and partnering with product teams 
 Lastly, I led a new team in the mobile infrastructure org which was focused on networking and reliability,
 and was an editor of the [Lyft Engineering Blog](https://eng.lyft.com).
 
-## [Path](https://www.crunchbase.com/organization/path-travel) - Co-Founder & CTO (2020 - 2022)
+## <a name="path"></a>[Path](https://www.crunchbase.com/organization/path-travel) - Co-Founder & CTO (2020 - 2022)
 
 Co-founded Path, a platform to find the best spots through short-form,
 relatable video reviews from local experts and recommendations from friends.
