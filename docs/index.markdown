@@ -1,44 +1,55 @@
 ---
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# To build locally:
+# [sudo] gem install jekyll
+# bundle exec jekyll serve
 layout: home
 title: About Me
-tags: ios, engineer, software, buf, protobuf, grpc, protocol, buffers, california, lyft, mobile, networking, connect, path, envoy, app
+tags: ios, engineer, software, buf, protobuf, grpc, grpc-web, protocol, buffers, california, lyft, mobile, apis, networking, connect, path, envoy, app
 ---
 
 ![ProfilePhoto]({{ site.asset_baseurl }}/full/profile.png){:style="float: right; margin-right: 7px; margin-top: 7px; width: 200px; height: 200px;"}
 Hey there! I'm Michael Rebello. I've been doing iOS development since iOS 4,
-and currently work at [Buf](https://buf.build) building the future of APIs
-through Protobuf (particularly on mobile!).
+and currently work on
+[Connect-Swift][https://github.com/bufbuild/connect-swift]
+at [Buf](https://buf.build), building the future of APIs with Protobuf.
 
-I also co-founded [Path](https://www.crunchbase.com/organization/path-travel) -
-a platform to find the best spots through short-form,
-relatable video reviews from local experts and recommendations from friends.
-
-Prior, I worked as a Staff Engineer at Lyft for 6 years after starting and selling
-two small software companies and doing a few consulting projects.
+Prior, I was a [Staff Engineer at Lyft](#lyft) for 6 years and
+[co-founded a social travel company called Path](#path). Before that,
+I worked in enterprise SaaS and started and sold two small software companies.
 
 I currently live in San Diego with my wife Milla and our
 [two cats, Pushkin & Bailey]({{ site.asset_baseurl }}/full/cats.jpg).
 In my free time, I enjoy baking, hiking, surfing, bouldering, and learning
-to speak Russian.
+to speak Russian. My wife and I also launched an app called
+[Earful](https://www.earful.app) to solve our own need for listening to news
+articles on-the-go.
 
 This page contains a little bit about my work background – feel free to
-[contact me](mailto:me@michaelrebello.com)!
+[contact me](mailto:me@michaelrebello.com) or
+[ping me in the Buf Slack](https://join.slack.com/t/bufbuild/shared_invite/zt-f5k547ki-VDs_iC4TblNCu7ubhRD17w).
 
-# Public talks/features
+# Public Talks
 
 - BA Swiftable Conference: [Envoy Mobile & The Upcoming Networking Revolution](https://www.youtube.com/watch?v=rMBrVfoQ7-g)
-- Lyft Engineering Blog: [Lyft’s Journey Through Mobile Networking](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166)
-- Lyft Engineering Blog: [Recovering from Crashes with Safe Mode](https://eng.lyft.com/recovering-from-crashes-with-safe-mode-77ff572fdfda)
 - App Performance Cafe Podcast: [Abstracting Networking from the Application Layer](https://open.spotify.com/episode/1rDAnNa7YtbvNh0ZWKfup2)
 - Lyft Mobile Podcast: [Mobile Networking](https://lyftmobilepodcast.libsyn.com/mobile-networking)
 - Swift Language User Group: [gRPC & iOS at Lyft](https://www.youtube.com/watch?v=Go3_72i8bjI)
+
+# Featured Posts
+
+- Buf: [Announcing Connect-Swift: You’ll actually want to use Protobuf on iOS](https://buf.build/blog/announcing-connect-swift)
+- Lyft Engineering: [Lyft’s Journey Through Mobile Networking](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166)
+- Lyft Engineering: [Recovering from Crashes with Safe Mode](https://eng.lyft.com/recovering-from-crashes-with-safe-mode-77ff572fdfda)
 
 # Past Work
 
 ## [Buf](https://buf.build) (2022 - Present)
 
-Building the future of APIs through Protobuf!
+Wrote and maintain [Connect-Swift][https://github.com/bufbuild/connect-swift],
+an open-source, lightweight, idiomatic library that finally unlocks Protobuf’s
+long-promised productivity wins for Swift. I am also involved in customer
+engineering and developer relations.
 
 ## [Lyft](https://www.lyft.com) (2016 - 2022)
 
