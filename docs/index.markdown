@@ -46,7 +46,7 @@ This page contains a little bit about my work background – feel free to
 
 ## [Buf](https://buf.build) (2022 - Present)
 
-Wrote and maintain [Connect-Swift][https://github.com/bufbuild/connect-swift],
+Wrote and maintain [Connect-Swift](https://github.com/bufbuild/connect-swift),
 an open-source, lightweight, idiomatic library that finally unlocks Protobuf’s
 long-promised productivity wins for Swift. I am also involved in customer
 engineering and developer relations.
