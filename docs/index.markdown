@@ -10,32 +10,32 @@ tags: ios, engineer, software, buf, protobuf, grpc, grpc-web, protocol, buffers,
 
 ![ProfilePhoto]({{ site.asset_baseurl }}/full/profile.png){:style="float: right; margin-right: 7px; margin-top: 7px; width: 200px; height: 200px;"}
 Hey there! I'm Michael Rebello. I've been doing iOS development since iOS 4,
-and currently work on
-[Connect-Swift](https://github.com/bufbuild/connect-swift)
-at [Buf](https://buf.build), building the future of APIs with Protobuf.
+and currently work as a cross between a Software Engineer and a
+Product Manager at [Buf](https://buf.build), where I also authored
+[Connect-Swift](https://github.com/bufbuild/connect-swift).
 
 Prior, I was a [Staff Engineer at Lyft](#lyft) for 6 years and
 [co-founded a social travel company called Path](#path). Before that,
 I worked in enterprise SaaS and started and sold two small software companies.
 
 I currently live in San Diego with my wife Milla and our
-[two cats, Pushkin & Bailey]({{ site.asset_baseurl }}/full/cats.jpg).
+3 cats (Bailey, June, and Walter).
 In my free time, I enjoy baking, hiking, surfing, bouldering, and learning
-to speak Russian. My wife and I also launched an app called
+to speak Russian. My wife and I also launched an app together called
 [Earful](https://www.earful.app) to solve our own need for listening to news
 articles on-the-go.
 
 This page contains a little bit about my work background – feel free to
 [contact me](mailto:me@michaelrebello.com) or
-[ping me in the Buf Slack](https://join.slack.com/t/bufbuild/shared_invite/zt-f5k547ki-VDs_iC4TblNCu7ubhRD17w).
+[ping me in the Buf Slack](https://buf.build/links/slack).
 
 # Public Talks
 
-- Swift TO Conference: A Better Way to Build APIs in Swift (recording coming soon)
-- BA Swiftable Conference: [Envoy Mobile & The Upcoming Networking Revolution](https://www.youtube.com/watch?v=rMBrVfoQ7-g)
-- App Performance Cafe Podcast: [Abstracting Networking from the Application Layer](https://open.spotify.com/episode/1rDAnNa7YtbvNh0ZWKfup2)
-- Lyft Mobile Podcast: [Mobile Networking](https://lyftmobilepodcast.libsyn.com/mobile-networking)
-- Swift Language User Group: [gRPC & iOS at Lyft](https://www.youtube.com/watch?v=Go3_72i8bjI)
+- (2023) Swift TO Conference: [A Better Way to Build APIs in Swift](https://www.youtube.com/watch?v=WnAP8rRe3Wc)
+- (2022) App Performance Cafe Podcast: [Abstracting Networking from the Application Layer](https://open.spotify.com/episode/1rDAnNa7YtbvNh0ZWKfup2)
+- (2019) BA Swiftable Conference: [Envoy Mobile & The Upcoming Networking Revolution](https://www.youtube.com/watch?v=rMBrVfoQ7-g)
+- (2019) Lyft Mobile Podcast: [Mobile Networking](https://lyftmobilepodcast.libsyn.com/mobile-networking)
+- (2018) Swift Language User Group: [gRPC & iOS at Lyft](https://www.youtube.com/watch?v=Go3_72i8bjI)
 
 # Featured Posts
 
@@ -45,12 +45,12 @@ This page contains a little bit about my work background – feel free to
 
 # Past Work
 
-## [Buf](https://buf.build) (2022 - Present)
+## <a name="buf"></a>[Buf](https://buf.build) (2022 - Present)
 
 Wrote and maintain [Connect-Swift](https://github.com/bufbuild/connect-swift),
 an open-source, lightweight, idiomatic library that finally unlocks Protobuf’s
-long-promised productivity wins for Swift. I am also involved in customer
-engineering and developer relations.
+long-promised productivity wins for Swift. I am currently a product manager,
+and am involved in sales and developer relations.
 
 ## <a name="lyft"></a>[Lyft](https://www.lyft.com) (2016 - 2022)
 
