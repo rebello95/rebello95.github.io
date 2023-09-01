@@ -31,7 +31,7 @@ This page contains a little bit about my work background – feel free to
 
 # Public Talks
 
-- (2023) Swift TO Conference: [A Better Way to Build APIs in Swift](https://www.youtube.com/watch?v=WnAP8rRe3Wc)
+- (2023) Swift TO Conference: [A Better Way to Build APIs in Swift](https://www.youtube.com/watch?v=MO2aNPd363E)
 - (2022) App Performance Cafe Podcast: [Abstracting Networking from the Application Layer](https://open.spotify.com/episode/1rDAnNa7YtbvNh0ZWKfup2)
 - (2019) BA Swiftable Conference: [Envoy Mobile & The Upcoming Networking Revolution](https://www.youtube.com/watch?v=rMBrVfoQ7-g)
 - (2019) Lyft Mobile Podcast: [Mobile Networking](https://lyftmobilepodcast.libsyn.com/mobile-networking)
