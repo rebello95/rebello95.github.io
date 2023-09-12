@@ -43,6 +43,11 @@ This page contains a little bit about my work background – feel free to
 - Lyft Engineering: [Lyft’s Journey Through Mobile Networking](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166)
 - Lyft Engineering: [Recovering from Crashes with Safe Mode](https://eng.lyft.com/recovering-from-crashes-with-safe-mode-77ff572fdfda)
 
+# Open Source
+
+- [Connect-Swift](https://github.com/bufbuild/connect-swift): Author and current maintainer
+- [Envoy Mobile](https://github.com/envoyproxy/envoy/blob/main/mobile/README.md): Founding member and former maintainer
+
 # Past Work
 
 ## <a name="buf"></a>[Buf](https://buf.build) (2022 - Present)
@@ -60,7 +65,7 @@ designers and 2 other iOS engineers tasked with
 [redesigning the rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users)
 which boosted bookings and became the foundation for the Lyft rider app we know today.
 I was one of the founding members and maintainers of the open-source
-[Envoy Mobile](https://github.com/lyft/envoy-mobile) project, was responsible for writing Lyft’s iOS
+[Envoy Mobile](https://github.com/envoyproxy/envoy/blob/main/mobile/README.md) project, was responsible for writing Lyft’s iOS
 experimentation, analytics, and gRPC streaming components, and co-led Lyft’s
 [mobile-wide adoption of Protobuf APIs](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166) -
 authoring a Go-based Swift Protobuf generator and partnering with product teams to achieve 100% utilization.
