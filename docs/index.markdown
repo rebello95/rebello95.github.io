@@ -12,7 +12,7 @@ tags: ios, engineer, software, buf, protobuf, grpc, grpc-web, protocol, buffers,
 Hey there! I'm Michael Rebello. I've been doing iOS development since iOS 4,
 and currently work as a cross between a Software Engineer and a
 Product Manager at [Buf](https://buf.build), where I also authored
-[Connect-Swift](https://github.com/bufbuild/connect-swift).
+[Connect-Swift](https://github.com/connectrpc/connect-swift).
 
 Prior, I was a [Staff Engineer at Lyft](#lyft) for 6 years and
 [co-founded a social travel company called Path](#path). Before that,
@@ -45,14 +45,14 @@ This page contains a little bit about my work background – feel free to
 
 # Open Source
 
-- [Connect-Swift](https://github.com/bufbuild/connect-swift): Author and current maintainer
+- [Connect-Swift](https://github.com/connectrpc/connect-swift): Author and current maintainer
 - [Envoy Mobile](https://github.com/envoyproxy/envoy/blob/main/mobile/README.md): Founding member and former maintainer
 
 # Past Work
 
 ## <a name="buf"></a>[Buf](https://buf.build) (2022 - Present)
 
-Wrote and maintain [Connect-Swift](https://github.com/bufbuild/connect-swift),
+Wrote and maintain [Connect-Swift](https://github.com/connectrpc/connect-swift),
 an open-source, lightweight, idiomatic library that finally unlocks Protobuf’s
 long-promised productivity wins for Swift. I am currently a product manager,
 and am involved in sales and developer relations.
