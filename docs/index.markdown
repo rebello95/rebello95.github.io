@@ -5,7 +5,7 @@
 # bundle exec jekyll serve
 layout: home
 title: About Me
-tags: ios, engineer, software, buf, protobuf, grpc, grpc-web, protocol, buffers, california, lyft, mobile, apis, networking, connect, path, envoy, app
+tags: ios, engineer, staff, senior, software, buf, protobuf, grpc, grpc-web, protocol, buffers, california, lyft, mobile, apis, networking, connect, path, travel, envoy, app
 ---
 
 ![ProfilePhoto]({{ site.asset_baseurl }}/full/profile.png){:style="float: right; margin-right: 7px; margin-top: 7px; width: 200px; height: 200px;"}
@@ -52,55 +52,28 @@ This page contains a little bit about my work background – feel free to
 
 ## <a name="buf"></a>[Buf](https://buf.build) - iOS Engineering & Product (2022 - Present)
 
-I'm the author and a maintainer of [Connect-Swift](https://github.com/connectrpc/connect-swift),
-an open-source Protobuf RPC library in the [Connect ecosystem](https://www.connectrpc.com) which recently [applied to join the CNCF](https://github.com/cncf/sandbox/issues/63). I'm also responsible for defining and leading other projects such as Buf's [breaking change governance flow](https://buf.build/solutions/prevent-breaking-changes) and [gateway solutions](https://buf.build/solutions/govern-apis-at-the-edge), have represented the company at multiple conferences, and actively oversee our blog.
+I’m the author and a maintainer of [Connect-Swift](https://github.com/connectrpc/connect-swift), an open-source Protobuf RPC library in the [Connect ecosystem](https://www.connectrpc.com/) which recently [applied to join the CNCF](https://github.com/cncf/sandbox/issues/63). I’m also responsible for defining and leading other projects such as Buf’s [breaking change governance flow](https://buf.build/solutions/prevent-breaking-changes) and [gateway solutions](https://buf.build/solutions/govern-apis-at-the-edge), have represented the company at conferences, and oversee our blog.
 
 ## <a name="lyft"></a>[Lyft](https://www.lyft.com) - Staff Engineer (2016 - 2022)
 
-After leading an architecture effort on the iOS driver app, I was asked to join a small “lab” team of designers and 2 iOS engineers tasked with
-[redesigning the rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users)
-which boosted bookings and became the foundation for the Lyft rider app we know today.
-I was a founding member and maintainer of the open-source
-[Envoy Mobile](https://github.com/envoyproxy/envoy/blob/main/mobile/README.md) project (now part of the [CNCF](https://www.cncf.io)), was responsible for writing Lyft’s iOS
-experimentation, analytics, and gRPC streaming components, and co-led Lyft’s
-[mobile-wide adoption of Protobuf APIs](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166) -
-authoring a Go-based Swift Protobuf generator and partnering with product teams to achieve 100% utilization.
-Lastly, I led a new team on mobile infrastructure focused on networking and reliability,
-and was an editor of the [Lyft Engineering Blog](https://eng.lyft.com).
+After leading an architecture effort on the iOS driver app, I formed a “lab” team with 2 other iOS engineers to build and ship a [redesigned rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users) which boosted ride bookings and became the foundation for the current Lyft app. I led [Lyft’s mobile-wide adoption of Protobuf APIs](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166), authoring a Swift Protobuf generator in Go and partnering with product teams to achieve 100% utilization across mobile at the company. I was also a founding member and maintainer of the open-source [Envoy Mobile](https://github.com/envoyproxy/envoy/blob/main/mobile/README.md) project (now part of the CNCF), and was responsible for writing Lyft’s experimentation, analytics, and gRPC streaming components on iOS. Lastly, I led a new team on mobile infrastructure focused on networking and reliability, and was an editor of the [Lyft Engineering Blog](https://eng.lyft.com/).
 
 ## <a name="path"></a>[Path](https://www.crunchbase.com/organization/path-travel) - Co-Founder & CTO (2020 - 2022)
 
-Co-founded Path, a platform to find the best spots through short-form,
-relatable video reviews from local experts and recommendations from friends.
-In 2021, the company raised a funding round led by [75 & Sunny Ventures](https://www.75andsunny.vc/labs).
-As the sole technical team member, I built Path's backend server and iOS app from the ground up.
-My co-founder and I interviewed countless users, shipped >250 builds, and launched several marketing campaigns over the 2 years we spent working towards product-market-fit,
-but eventually decided to wind the company down, returning the majority of funds back to investors. Screenshots can be found in [this portfolio album](https://photos.app.goo.gl/MdCb2D1k6getLFtD9).
+Co-founded [Path](https://www.crunchbase.com/organization/path-travel), a platform to find the best spots through short-form, relatable video reviews from local experts and recommendations from friends. In 2021, the company raised a funding round led by [75 & Sunny Ventures](https://www.75andsunny.vc/labs). As the sole technical team member, I built Path’s backend server and iOS app from the ground up. My co-founder and I interviewed countless users, shipped >250 builds, and launched several marketing campaigns over 2 years of working towards product-market-fit, but eventually decided to wind the company down, returning the majority of funds back to investors. Screenshots can be found in [this portfolio album](https://photos.app.goo.gl/MdCb2D1k6getLFtD9).
 
 ## [ActivityHub/NEXMachine](https://www.crunchbase.com/organization/nexmachine-llc) - iOS Product & Architecture (2014 - 2016)
 
-Joined ActivityHub (NEXMachine) to build their iOS calendar app and backend which integrated with several
-external services. A few months later, they acquired my company (Scholastic Connections),
-and I began leading product development for both initiatives before later closing down Scholastic Connections
-as ActivityHub refocused on the enterprise space as a Salesforce partner. I then led product engineering,
-hired new engineers, contributed as an IC, and participated in investor meetings.
+Joined ActivityHub (NEXMachine) to build their iOS calendar app and backend which integrated with several external services. A few months later, they acquired my company (Scholastic Connections), and I began leading product development for both initiatives before later closing down Scholastic Connections as ActivityHub refocused on the enterprise space as a Salesforce partner. I then led product engineering, hired new engineers, contributed as an IC, and participated in investor meetings.
 
 ## [Flounder Apps](https://www.crunchbase.com/organization/flounder-apps-llc) (Acquired in 2016) - Co-Founder (2013 - 2016)
 
-Co-founded Flounder Apps, focused on building
-[Ambition: Strategy War Game](https://appadvice.com/app/ambition-strategy-war-game/850863885) – an iOS app
-designed as a complex, turn-based strategy game.
-The product was acquired by another organization in 2016.
+Co-founded Flounder Apps, focused on building [Ambition: Strategy War Game](https://appadvice.com/app/ambition-strategy-war-game/850863885) – an iOS app designed as a complex, turn-based strategy game. The product was acquired by another organization in 2016.
 
 ## [Scholastic Connections](https://www.crunchbase.com/organization/scholastic-connections-llc) (Acquired in 2015) - Founder (2014 - 2015)
 
-Founded Scholastic Connections, a company that partnered with classroom management providers to create an
-iOS app which provided teachers and families with easy access to their students' data.
-In 2014, the company was acquired by ActivityHub (NEXMachine), after which the product expanded to Android
-and grew its user base before ultimately being shut down when
-ActivityHub pivoted towards the enterprise space.
+Founded [Scholastic Connections](https://www.crunchbase.com/organization/scholastic-connections-llc), a company that partnered with classroom management providers to create an iOS app which provided teachers and families with easy access to their students' data. In 2015, the company was acquired by ActivityHub (NEXMachine), but was later wound down when ActivityHub pivoted towards the enterprise space.
 
 ## Independent iOS Developer (2011 - 2014)
 
-Contracted independently on iOS projects for several companies. Additionally,
-I created a few of my own apps which were distributed on the App Store, some of which were eventually sold off.
+Contracted independently on iOS projects for several companies. Additionally, I created a few of my own apps which were distributed on the App Store, some of which were eventually sold off.
