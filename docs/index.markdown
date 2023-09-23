@@ -10,9 +10,9 @@ tags: ios, engineer, software, buf, protobuf, grpc, grpc-web, protocol, buffers,
 
 ![ProfilePhoto]({{ site.asset_baseurl }}/full/profile.png){:style="float: right; margin-right: 7px; margin-top: 7px; width: 200px; height: 200px;"}
 Hey there! I'm Michael Rebello. I've been doing iOS development since iOS 4,
-and currently work as a cross between a Software Engineer and a
-Product Manager at [Buf](https://buf.build), where I also authored
-[Connect-Swift](https://github.com/connectrpc/connect-swift).
+and currently work as a cross between a software engineer and a
+product manager at [Buf](https://buf.build), where I authored and currently maintain
+[Connect-Swift](https://github.com/connectrpc/connect-swift), a [CNCF-bound](https://github.com/cncf/sandbox/issues/63) Protobuf RPC library.
 
 Prior, I was a [Staff Engineer at Lyft](#lyft) for 6 years and
 [co-founded a social travel company called Path](#path). Before that,
@@ -29,6 +29,11 @@ This page contains a little bit about my work background – feel free to
 [contact me](mailto:me@michaelrebello.com) or
 [ping me in the Buf Slack](https://buf.build/links/slack).
 
+# Open Source
+
+- [Connect-Swift](https://github.com/connectrpc/connect-swift): Author and current maintainer
+- [Envoy Mobile](https://github.com/envoyproxy/envoy/blob/main/mobile/README.md): Founding member and former maintainer
+
 # Public Talks
 
 - (2023) Swift TO Conference: [A Better Way to Build APIs in Swift](https://www.youtube.com/watch?v=MO2aNPd363E)
@@ -43,33 +48,24 @@ This page contains a little bit about my work background – feel free to
 - Lyft Engineering: [Lyft’s Journey Through Mobile Networking](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166)
 - Lyft Engineering: [Recovering from Crashes with Safe Mode](https://eng.lyft.com/recovering-from-crashes-with-safe-mode-77ff572fdfda)
 
-# Open Source
+# Work Experience
 
-- [Connect-Swift](https://github.com/connectrpc/connect-swift): Author and current maintainer
-- [Envoy Mobile](https://github.com/envoyproxy/envoy/blob/main/mobile/README.md): Founding member and former maintainer
+## <a name="buf"></a>[Buf](https://buf.build) - iOS Engineering & Product (2022 - Present)
 
-# Past Work
+I'm the author and a maintainer of [Connect-Swift](https://github.com/connectrpc/connect-swift),
+an open-source Protobuf RPC library in the [Connect ecosystem](https://www.connectrpc.com) which recently [applied to join the CNCF](https://github.com/cncf/sandbox/issues/63). I'm also responsible for defining and leading other projects such as Buf's [breaking change governance flow](https://buf.build/solutions/prevent-breaking-changes) and [gateway solutions](https://buf.build/solutions/govern-apis-at-the-edge), have represented the company at multiple conferences, and actively oversee our blog.
 
-## <a name="buf"></a>[Buf](https://buf.build) (2022 - Present)
+## <a name="lyft"></a>[Lyft](https://www.lyft.com) - Staff Engineer (2016 - 2022)
 
-Wrote and maintain [Connect-Swift](https://github.com/connectrpc/connect-swift),
-an open-source, lightweight, idiomatic library that finally unlocks Protobuf’s
-long-promised productivity wins for Swift. I am currently a product manager,
-and am involved in sales and developer relations.
-
-## <a name="lyft"></a>[Lyft](https://www.lyft.com) (2016 - 2022)
-
-My first few months at Lyft were focused on shipping features to improve Shared Rides.
-After leading an architecture effort on the iOS driver app, I was asked to join a very small “lab” team of
-designers and 2 other iOS engineers tasked with
+After leading an architecture effort on the iOS driver app, I was asked to join a small “lab” team of designers and 2 iOS engineers tasked with
 [redesigning the rider app](https://techcrunch.com/2017/11/08/lyft-is-testing-a-new-rider-experience-with-a-small-percentage-of-users)
 which boosted bookings and became the foundation for the Lyft rider app we know today.
-I was one of the founding members and maintainers of the open-source
-[Envoy Mobile](https://github.com/envoyproxy/envoy/blob/main/mobile/README.md) project, was responsible for writing Lyft’s iOS
+I was a founding member and maintainer of the open-source
+[Envoy Mobile](https://github.com/envoyproxy/envoy/blob/main/mobile/README.md) project (now part of the [CNCF](https://www.cncf.io)), was responsible for writing Lyft’s iOS
 experimentation, analytics, and gRPC streaming components, and co-led Lyft’s
 [mobile-wide adoption of Protobuf APIs](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166) -
 authoring a Go-based Swift Protobuf generator and partnering with product teams to achieve 100% utilization.
-Lastly, I led a new team in the mobile infrastructure org which was focused on networking and reliability,
+Lastly, I led a new team on mobile infrastructure focused on networking and reliability,
 and was an editor of the [Lyft Engineering Blog](https://eng.lyft.com).
 
 ## <a name="path"></a>[Path](https://www.crunchbase.com/organization/path-travel) - Co-Founder & CTO (2020 - 2022)
@@ -77,10 +73,9 @@ and was an editor of the [Lyft Engineering Blog](https://eng.lyft.com).
 Co-founded Path, a platform to find the best spots through short-form,
 relatable video reviews from local experts and recommendations from friends.
 In 2021, the company raised a funding round led by [75 & Sunny Ventures](https://www.75andsunny.vc/labs).
-As the sole technical team member, I built Path's backend servers and iOS app from the ground up.
-I partnered closely with the product team to iterate based on data and user feedback,
-and was involved in investor relations/fundraising. After 2 years of working towards product-market-fit,
-we decided to wind the company down and returned the majority of funds back to investors.
+As the sole technical team member, I built Path's backend server and iOS app from the ground up.
+My co-founder and I interviewed countless users, shipped >250 builds, and launched several marketing campaigns over the 2 years we spent working towards product-market-fit,
+but eventually decided to wind the company down, returning the majority of funds back to investors. Screenshots can be found in [this portfolio album](https://photos.app.goo.gl/MdCb2D1k6getLFtD9).
 
 ## [ActivityHub/NEXMachine](https://www.crunchbase.com/organization/nexmachine-llc) - iOS Product & Architecture (2014 - 2016)
 
