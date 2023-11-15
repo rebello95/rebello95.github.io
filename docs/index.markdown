@@ -44,6 +44,7 @@ This page contains a little bit about my work background – feel free to
 
 # Featured Posts
 
+- Buf: [The real reason to use Protobuf is not performance](https://buf.build/blog/the-real-reason-to-use-protobuf)
 - Buf: [Announcing Connect-Swift: You’ll actually want to use Protobuf on iOS](https://buf.build/blog/announcing-connect-swift)
 - Lyft Engineering: [Lyft’s Journey Through Mobile Networking](https://eng.lyft.com/lyfts-journey-through-mobile-networking-d8e13c938166)
 - Lyft Engineering: [Recovering from Crashes with Safe Mode](https://eng.lyft.com/recovering-from-crashes-with-safe-mode-77ff572fdfda)
