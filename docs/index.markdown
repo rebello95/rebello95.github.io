@@ -55,7 +55,7 @@ This page contains a little bit about my work background – feel free to
 
 I'm currently on the Client Data & Networking team at Airbnb. The team is responsible for Airbnb's in-house Web, iOS, and Android GraphQL clients, as well as for related infrastructure pertaining to schema discovery, runtime observability, and client schema development.
 
-## <a name="buf"></a>[Buf](https://buf.build) - iOS Engineering & Product (2022 - 2023)
+## <a name="buf"></a>[Buf](https://buf.build) - Member of Technical Staff (2022 - 2023)
 
 I'm the author and a maintainer of [Connect-Swift](https://github.com/connectrpc/connect-swift), an open-source Protobuf RPC library in the [Connect ecosystem](https://www.connectrpc.com/) which recently [joined the CNCF](https://github.com/cncf/sandbox/issues/63). I was responsible for defining and leading other projects such as Buf's [breaking change governance flow](https://buf.build/solutions/prevent-breaking-changes) and [gateway solutions](https://buf.build/solutions/govern-apis-at-the-edge), represented the company at conferences, and managed its blog.
 
