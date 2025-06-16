@@ -20,6 +20,9 @@ Prior, I was a [Staff Engineer at Lyft](#lyft) for 6 years and
 [co-founded a social travel company called Path](#path). Before that,
 I worked in enterprise SaaS and started and sold two small software companies.
 
+As a way of giving back, my wife and I created and run the [Papai Foundation](#papai-foundation),
+and I am on the board of [The 25 Group](#the-25-group).
+
 I currently live in San Diego with my wife Milla, our daughter Kaya,
 and our 3 cats (Bailey, June, and Walter).
 In my free time, I enjoy baking, hiking, surfing, bouldering, and learning
@@ -82,3 +85,13 @@ Founded [Scholastic Connections](https://www.crunchbase.com/organization/scholas
 ## Independent iOS Developer (2011 - 2014)
 
 Contracted independently on iOS projects for several companies. Additionally, I created a few of my own apps which were distributed on the App Store, some of which were eventually sold off.
+
+# Nonprofits
+
+## Papai Foundation
+
+My wife Milla and I created and run the [Papai Foundation](https://www.papai.foundation) with the mission to create a better future for some of the most marginalized and forgotten people in India and Central Asia: Vulnerable children and women. We do this by developing partnerships with grassroots organizations abroad and funding projects related to orphanages, childcare, and education.
+
+## The 25 Group
+
+I am on the board of [The 25 Group](https://www.the25group.org/), a Christian nonprofit organization that provides advocacy and funding to serve marginalized communities worldwide, focusing on the six areas of ministry outlined in Matthew 25: Feeding the hungry, providing water for the thirsty, healing those who are sick, welcoming strangers, ministering to free the captive, and clothing those in need.
