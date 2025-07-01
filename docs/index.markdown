@@ -56,7 +56,7 @@ This page contains a little bit about my work background – feel free to
 
 ## <a name="airbnb"></a>[Airbnb](https://airbnb.com) - Staff (iOS) Engineer (2023 - Present)
 
-I'm currently on the Client Data & Networking team at Airbnb. The team is responsible for Airbnb's in-house Web, iOS, and Android GraphQL clients, as well as for related infrastructure pertaining to schema discovery, runtime observability, and client schema development. I've recently been building some new infrastructure to automate GraphQL data mocking, and uploaded a short demo video [here](https://www.youtube.com/watch?v=gM3T_k6kR_o).
+I'm currently on the Client Data & Networking team at Airbnb. The team is responsible for Airbnb's in-house Web, iOS, and Android GraphQL clients, as well as for related infrastructure pertaining to schema discovery, runtime observability, and client schema development.
 
 ## <a name="buf"></a>[Buf](https://buf.build) - Member of Technical Staff (2022 - 2023)
 
