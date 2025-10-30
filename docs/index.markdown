@@ -46,6 +46,7 @@ This page contains a little bit about my work background – feel free to
 
 # Featured Posts
 
+- Airbnb Engineering: [GraphQL Data Mocking at Scale with LLMs and `@generateMock`](https://medium.com/airbnb-engineering/graphql-data-mocking-at-scale-with-llms-and-generatemock-30b380f12bd6)
 - Buf: [The real reason to use Protobuf is not performance](https://buf.build/blog/the-real-reason-to-use-protobuf)
 - Buf: [Announcing Connect-Swift: You'll actually want to use Protobuf on iOS](https://buf.build/blog/announcing-connect-swift)
 - Buf: [Connect-Swift v1.0](https://buf.build/blog/connect-swift-v1)
